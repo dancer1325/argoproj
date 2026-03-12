@@ -8,10 +8,14 @@ ok[![slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=sla
 
 - Argoproj
   - == collection of tools for getting work done with Kubernetes.
-    * [Argo Workflows](https://github.com/argoproj/argo-workflows) - Container-native Workflow Engine
-    * [Argo CD](https://github.com/argoproj/argo-cd) - Declarative GitOps Continuous Delivery
-    * [Argo Events](https://github.com/argoproj/argo-events) - Event-based Dependency Manager
-    * [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery with support for Canary and Blue Green deployment strategies
+    * [Argo Workflows](https://github.com/argoproj/argo-workflows)
+      *  Container-native Workflow Engine
+    * [Argo CD](https://github.com/argoproj/argo-cd)
+      * Declarative GitOps Continuous Delivery
+    * [Argo Events](https://github.com/argoproj/argo-events)
+      * Event-based Dependency Manager
+    * [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
+      * Progressive Delivery with support for Canary and Blue Green deployment strategies
 
 - [argoproj-labs](https://github.com/argoproj-labs)
   - ANOTHER GitHub org 
@@ -31,17 +35,15 @@ ok[![slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=sla
 
 ## Contributing
 
-- [contributing documentation](community/CONTRIBUTING.md).
-Argo contributors must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
-For our policy on using generative AI in contributions, see our [Generative AI Contribution Policy](community/genai.md).
-
-For help contributing, visit the [#argo-contributors channel](https://cloud-native.slack.com/archives/C020XM04CUW) in CNCF Slack.
-
+- [contributing documentation](community/CONTRIBUTING.md)
+- [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+- [Generative AI Contribution Policy](community/genai.md)
+- [#argo-contributors Slack channel](https://cloud-native.slack.com/archives/C020XM04CUW)
 - [community governance document](community/GOVERNANCE.md)
 
 ## Project Resources
 * [Argo Community Meeting Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
   * [ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics)
-* Argo GitHub:  https://github.com/argoproj
-* Argo website: https://argoproj.github.io
-* Argo Slack:   https://argoproj.github.io/community/join-slack
+* [Argo GitHub](https://github.com/argoproj)  
+* [Argo website](https://argoproj.github.io) 
+* [Argo Slack](https://argoproj.github.io/community/join-slack)
