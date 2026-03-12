@@ -17,26 +17,27 @@ ok[![slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=sla
   - ANOTHER GitHub org 
   - goal
     - community contributions -- related to -- Argoproj ecosystem
-Repos in argoproj-labs are administered by the owners of each project. Please reach out to us on the Argo slack channel if you have a project that you would like to add to the org to make it easier to others in the Argo community to find, use, and contribute back.
+  - administered -- by -- EACH project's owners 
+  - if you want to add a project ->  reach out to us | Argo slack channel
 
 
 ## Adopters
 
-Each Argo sub-project maintains its own list of adopters. Those lists are available in the respective project repositories:
-* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/USERS.md)
-* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/USERS.md)
-* [Argo Events](https://github.com/argoproj/argo-events/blob/master/USERS.md)
-* [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/USERS.md)
+- / EACH Argo sub-project
+  * [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/USERS.md)
+  * [Argo CD](https://github.com/argoproj/argo-cd/blob/master/USERS.md)
+  * [Argo Events](https://github.com/argoproj/argo-events/blob/master/USERS.md)
+  * [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/USERS.md)
 
 ## Contributing
 
-To learn about how to contribute to Argoproj, see our [contributing documentation](community/CONTRIBUTING.md).
+- [contributing documentation](community/CONTRIBUTING.md).
 Argo contributors must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 For our policy on using generative AI in contributions, see our [Generative AI Contribution Policy](community/genai.md).
 
 For help contributing, visit the [#argo-contributors channel](https://cloud-native.slack.com/archives/C020XM04CUW) in CNCF Slack.
 
-To learn about Argoproj governance, see our [community governance document](community/GOVERNANCE.md).
+- [community governance document](community/GOVERNANCE.md)
 
 ## Project Resources
 * [Argo Community Meeting Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)
