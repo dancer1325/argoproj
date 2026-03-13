@@ -7,7 +7,7 @@ ok[![slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=sla
 ## What is Argoproj?
 
 - Argoproj
-  - == collection of tools for getting work done with Kubernetes.
+  - == tools -- for -- getting work done | Kubernetes
     * [Argo Workflows](https://github.com/argoproj/argo-workflows)
       *  Container-native Workflow Engine
     * [Argo CD](https://github.com/argoproj/argo-cd)
